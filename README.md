@@ -11,7 +11,6 @@
 - 🔭 Je travaille actuellement sur **[GameVault](#)** — une application web permettant de gérer sa collection de jeux vidéo.  
 - 🌱 J'apprends actuellement **JavaScript, les algorithmes et l’optimisation du code**.  
 - 💬 N'hésite pas à me parler de **développement web & mobile, nouvelles technologies, astuces de dev ou autres sujets liés au code**.  
-- 📫 Tu peux me contacter à **cambillau.arnaud@gmail.com**.  
 - ⚡ Fun fact : **Je code plus vite avec du café qu’avec de la musique ☕**  
 
 ---
