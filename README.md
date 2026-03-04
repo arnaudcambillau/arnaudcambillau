@@ -70,27 +70,27 @@ Fun fact  : Je débogue mieux à 23h qu'à 9h du matin ☕
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
       </td>
-      <td>🔗 <em>Bientôt dispo</em></td>
-    </tr>
-    <tr>
-      <td>🎬 <strong>PopcornTV</strong></td>
-      <td>Plateforme de streaming avec auth utilisateur & upload vidéo</td>
-      <td>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-      </td>
-      <td>🔗 <em> Terminer </em></td>
+      <td><a href="https://github.com/arnaudcambillau/vault-gg"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a></td>
     </tr>
     <tr>
       <td>📋 <strong>TPagenda</strong></td>
-      <td>Gestionnaire de contacts — CRUD complet avec auth</td>
+      <td>Gestionnaire de contacts — CRUD complet avec authentification utilisateur</td>
       <td>
         <img src="https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white"/>
         <img src="https://img.shields.io/badge/Doctrine-orange?style=flat"/>
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
       </td>
-      <td>🔗 <em> Terminer </em></td>
+      <td><a href="https://github.com/arnaudcambillau/TPagenda"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a></td>
+    </tr>
+    <tr>
+      <td>🍽️ <strong>GourmeTech</strong></td>
+      <td>Site de recettes de cuisine avec recherche, favoris et intégration de l'API TheMealDB</td>
+      <td>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+      </td>
+      <td><a href="https://github.com/Lajous-gauthier/Gourmet"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a></td>
     </tr>
   </tbody>
 </table>
