@@ -1,94 +1,125 @@
-<h1 align="center">👋 Salut, moi c'est <strong>Arnaud Cambillau</strong></h1>
-<h3 align="center">💻 Développeur Web & Web Mobile Junior · France 🇫🇷</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arnaudcambillau&label=Visiteurs&color=4E9F3D&style=flat" alt="arnaudcambillau" />
-</p>
+# 👋 Salut, moi c'est **Arnaud Cambillau**
 
----
+### 💻 Développeur Web & Web Mobile Junior · France 🇫🇷
 
-### 🚀 À propos de moi
+[![Visiteurs](https://komarev.com/ghpvc/?username=arnaudcambillau&label=Visiteurs&color=4E9F3D&style=for-the-badge)](https://github.com/arnaudcambillau)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visiter-4E9F3D?style=for-the-badge)](https://arnaudcambillau.github.io/portfolio_Cambillau_Arnaud/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arnaud_Cambillau-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnaud-cambillau)
+[![Email](https://img.shields.io/badge/Email-cambillau.arnaud@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cambillau.arnaud@gmail.com)
 
-- 🎓 En formation **Développeur Web & Web Mobile** à l'EEDN (sept. 2024 – févr. 2026)
-- 🔭 Je travaille actuellement sur **[Vault.gg](#)** — une application de gestion de bibliothèque de jeux vidéo
-- 🌱 J'approfondis mes connaissances en **Symfony, Docker, accessibilité web et architecture MVC**
-- 🖥️ Passionné de **hardware PC** : j'ai monté ma propre machine et j'aime comprendre ce qu'il y a sous le capot
-- ⚡ Fun fact : **Je débogue mieux à 23h qu'à 9h du matin ☕**
+</div>
 
 ---
 
-### 🧰 Langages & Outils
+## 🚀 À propos de moi
 
-<p align="left">
-  <!-- Front-end -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <!-- Back-end -->
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://symfony.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" alt="Symfony" width="40" height="40"/>
-  </a>
-  <!-- BDD -->
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <!-- Outils -->
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-</p>
+```yaml
+Nom       : Arnaud Cambillau
+Formation : Développeur Web & Web Mobile @ EEDN (sept. 2024 – févr. 2026)
+Focus     : Symfony · Docker · Accessibilité · Architecture MVC
+Passion   : Hardware PC — j'ai monté ma propre machine 🖥️
+Fun fact  : Je débogue mieux à 23h qu'à 9h du matin ☕
+```
 
 ---
 
-### 📂 Projets en cours & réalisés
+## 🧰 Stack Technique
 
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| 🎮 **Vault.gg** | Gestion de bibliothèque de jeux vidéo | HTML, CSS, JS, PHP, MySQL |
-| 🎬 **PopcornTV** | Plateforme de streaming avec auth & upload | PHP, MySQL, JS |
-| 📋 **TPagenda** | Gestionnaire de contacts (CRUD complet) | Symfony, Doctrine, Bootstrap |
-| 🌡️ **Façadia** | Application de gestion de capteurs | Symfony, Docker |
+### 🎨 Front-end
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Twig](https://img.shields.io/badge/Twig-bacf29?style=for-the-badge&logo=symfony&logoColor=black)
 
----
+### ⚙️ Back-end
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 
-### 🤝 Me contacter
+### 🗄️ Bases de données
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<p align="left">
-  <a href="https://linkedin.com/in/arnaud-cambillau" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="mailto:cambillau.arnaud@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="40"/>
-  </a>
-</p>
-
----
-
-### 🌐 Mon Portfolio
-
-<p align="center">
-  <a href="https://arnaudcambillau.github.io/portfolio_Cambillau_Arnaud/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visitez%20ici-4E9F3D?style=for-the-badge&logo=github" alt="Portfolio" />
-  </a>
-</p>
+### 🛠️ Outils & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2kxZHk1cGkxajE2eDdibnFmMHI2eTVqeTh3NnQ2MXlmbmlmOHk0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" alt="coding gif" width="480"/>
-</p>
+## 📂 Mes Projets
+
+<table>
+  <thead>
+    <tr>
+      <th>Projet</th>
+      <th>Description</th>
+      <th>Stack</th>
+      <th>Lien</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🎮 <strong>Vault.gg</strong></td>
+      <td>Application de gestion de bibliothèque de jeux vidéo</td>
+      <td>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+      </td>
+      <td>🔗 <em>En cours</em></td>
+    </tr>
+    <tr>
+      <td>🎬 <strong>PopcornTV</strong></td>
+      <td>Plateforme de streaming avec auth utilisateur & upload vidéo</td>
+      <td>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+      </td>
+      <td>🔗 <em>En cours</em></td>
+    </tr>
+    <tr>
+      <td>📋 <strong>TPagenda</strong></td>
+      <td>Gestionnaire de contacts — CRUD complet avec auth</td>
+      <td>
+        <img src="https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Doctrine-orange?style=flat"/>
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+      </td>
+      <td>🔗 <em>En cours</em></td>
+    </tr>
+    <tr>
+      <td>🌡️ <strong>Façadia</strong></td>
+      <td>Application de gestion de capteurs IoT</td>
+      <td>
+        <img src="https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+      </td>
+      <td>🔗 <em>En cours</em></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=arnaudcambillau&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaudcambillau&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2kxZHk1cGkxajE2eDdibnFmMHI2eTVqeTh3NnQ2MXlmbmlmOHk0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" alt="coding gif" width="420"/>
+
+  <br/><br/>
+
+  > *"Le code ne ment jamais, les commentaires si."* 😄
+
+</div>
