@@ -64,13 +64,13 @@ Fun fact  : Je débogue mieux à 23h qu'à 9h du matin ☕
   <tbody>
     <tr>
       <td>🎮 <strong>Vault.gg</strong></td>
-      <td>Application de gestion de bibliothèque de jeux vidéo</td>
+      <td>Bibliothèque de jeux vidéo personnelle avec auth, ajout/suppression de jeux, recherche & filtres, et intégration d'une API externe (IGDB/RAWG) pour récupérer les infos des jeux automatiquement.<br/><br/><img src="https://img.shields.io/badge/Projet_final_de_formation-4E9F3D?style=flat"/> <img src="https://img.shields.io/badge/V1_MVP-Terminée-blue?style=flat"/> <img src="https://img.shields.io/badge/Déploiement-À_venir-orange?style=flat"/></td>
       <td>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
       </td>
-      <td>🔗 <em>En cours</em></td>
+      <td>🔗 <em>Bientôt dispo</em></td>
     </tr>
     <tr>
       <td>🎬 <strong>PopcornTV</strong></td>
@@ -80,7 +80,7 @@ Fun fact  : Je débogue mieux à 23h qu'à 9h du matin ☕
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
       </td>
-      <td>🔗 <em>En cours</em></td>
+      <td>🔗 <em> Terminer </em></td>
     </tr>
     <tr>
       <td>📋 <strong>TPagenda</strong></td>
@@ -90,28 +90,10 @@ Fun fact  : Je débogue mieux à 23h qu'à 9h du matin ☕
         <img src="https://img.shields.io/badge/Doctrine-orange?style=flat"/>
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
       </td>
-      <td>🔗 <em>En cours</em></td>
-    </tr>
-    <tr>
-      <td>🌡️ <strong>Façadia</strong></td>
-      <td>Application de gestion de capteurs IoT</td>
-      <td>
-        <img src="https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-      </td>
-      <td>🔗 <em>En cours</em></td>
+      <td>🔗 <em> Terminer </em></td>
     </tr>
   </tbody>
 </table>
-
----
-
-## 📊 Statistiques GitHub
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=arnaudcambillau&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaudcambillau&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
@@ -120,6 +102,6 @@ Fun fact  : Je débogue mieux à 23h qu'à 9h du matin ☕
 
   <br/><br/>
 
-  > *"Le code ne ment jamais, les commentaires si."* 😄
+  > *"First, solve the problem. Then, write the code."* — John Johnson
 
 </div>
