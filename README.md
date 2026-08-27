@@ -2,7 +2,7 @@
 
 # 👋 Salut, moi c'est **Arnaud Cambillau**
 
-### 💻 Développeur Web & Web Mobile Junior · France 🇫🇷
+### 💻 Développeur Web & Web Mobile · France 🇫🇷
 
 [![Visiteurs](https://komarev.com/ghpvc/?username=arnaudcambillau&label=Visiteurs&color=4E9F3D&style=for-the-badge)](https://github.com/arnaudcambillau)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visiter-4E9F3D?style=for-the-badge)](https://arnaudcambillau.github.io/portfolio_Cambillau_Arnaud/)
