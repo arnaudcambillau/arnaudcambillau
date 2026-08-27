@@ -17,7 +17,7 @@
 
 ```yaml
 Nom       : Arnaud Cambillau
-Formation : Développeur Web & Web Mobile @ EEDN (sept. 2024 – févr. 2026)
+Formation : Développeur Web & Web Mobile @ EEDN (sept. 2025 – févr. 2026)
 Focus     : Symfony · Docker · Accessibilité · Architecture MVC
 Passion   : Hardware PC — j'ai monté ma propre machine 🖥️
 Fun fact  : Je débogue mieux à 23h qu'à 9h du matin ☕
